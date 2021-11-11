@@ -1,0 +1,2 @@
+Cannot send message without a sender address in laravel
+Just run php artisan optimize:clear, its work for me.
